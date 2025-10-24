@@ -11,5 +11,5 @@
 #docker.getcollate.io/openmetadata/ingestion:1.6.1
 #docker.getcollate.io/openmetadata/postgresql:1.6.1
 #redis/redis-stack:latest
-apache/apisix:3.14.0
+apache/apisix:3.14.1
 #apache/apisix-dashboard:3.0.1
